@@ -21,3 +21,5 @@
 ### 本地存储
 - shared_preferences: ^0.5.10
 
+### 扫码
+- barcode_scan: ^3.0.1
