@@ -23,3 +23,15 @@
 
 ### 扫码
 - barcode_scan: ^3.0.1
+
+### 检测版本号
+- package_info: ^0.4.3 
+
+### 获取文件存储路径
+- path_provider: ^1.6.14
+
+### 下载器
+- flutter_downloader: ^1.5.0
+
+### 打开文件插件
+- open_file: ^3.0.1
